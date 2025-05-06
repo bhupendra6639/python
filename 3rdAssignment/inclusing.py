@@ -3,6 +3,16 @@
 should return True if the number is within the range,
 and False otherwise '''
 
+# print(number<=10)
+# print(number>20)
+
 number=30
-print(number<=10)
-print(number>20)
+def number_in_range(number):
+      if (number<=10 and number>=20):
+            return True
+      
+      else:
+            return False
+
+withinRange=number_in_range(number)
+print(withinRange)
