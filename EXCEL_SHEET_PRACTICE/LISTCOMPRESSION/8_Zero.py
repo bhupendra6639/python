@@ -8,9 +8,9 @@ error&quot;`.
 
 
 def Asser_Division_zero(a, b):
-    assert b != 0, "please give valid value for f'{b}not give in b"
+    assert b != 0, "please give valid value for f'{b}not give in b"  # false statement
     return a // b
 
 
-print("division is:-", Asser_Division_zero(10, 2))
+print("division is:-", Asser_Division_zero(10, 5))
 print("division is:-", Asser_Division_zero(10, 2))

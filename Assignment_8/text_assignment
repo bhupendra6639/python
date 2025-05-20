@@ -1,0 +1,31 @@
+1. Stack:
+o Implement a stack that stores integers and provides the following methods:
+push(), pop(), peek(), and is_empty().
+
+2. Stack:
+o Write a program to reverse a string using a stack.
+3. Queue:
+o Implement a queue that accepts strings and provides the methods enqueue(),
+dequeue(), and size().
+
+4. Queue:
+o Create a priority queue that accepts tuples in the format (priority, value)
+and dequeues the highest priority first.
+
+      5. Decorator:
+      o Write a decorator that logs the execution time of a function.
+6. Decorator:
+o Create a decorator that checks if a function has a specific argument
+(user_type=&quot;admin&quot;) and prints &quot;Access Granted&quot; or &quot;Access Denied&quot;.
+
+7. Generators:
+o Write a generator function that generates the first n Fibonacci numbers.
+8. Generators:
+o Create a generator that yields squares of numbers from 1 to n.
+9. Stack and Queue:
+o Implement a program that checks if a given sequence of operations (push, pop,
+enqueue, dequeue) maintains the order of elements.
+
+10. Decorator &amp; Generators:
+o Create a generator that generates prime numbers up to n and use a decorator to
+print &quot;Prime Number&quot; each time a prime is generated.
